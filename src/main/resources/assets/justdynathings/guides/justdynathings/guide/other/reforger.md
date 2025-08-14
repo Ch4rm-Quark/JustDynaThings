@@ -10,7 +10,7 @@ item_ids:
 
 # Reforger
 
-A powerful machine that allow to convert an input block placed to the _red face_ into an _output Block_ at the cost of a _catalyst_
+A powerful machine that converts an input block placed on the _red face_ into an _output Block_ at the cost of a _catalyst_
 
 <BlockImage id="justdynathings:reforger" p:facing="up" p:active="true" scale="4.0"/>
 
