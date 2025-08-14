@@ -10,14 +10,14 @@ item_ids:
 
 # Celestigem Solar Panel
 
-A solar panel that generate Forge Energy
+A solar panel that generates Forge Energy
 
 Default Max FE rate : **3840**
 
 **Default Conditions:**
 
-- See sky = true
-- More solar panels are near to other more will produce
+- Can See sky = true
+- Panels connect to produce more energy
 
 <BlockImage id="justdynathings:celestigem_solar_panel" scale="4.0"/>
 
