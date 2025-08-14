@@ -7,6 +7,6 @@ navigation:
 
 # Other stuff
 
-Some other uncategorized blocks/items but not to define useless!
+Some other uncategorized blocks/items, not to say theyre useless!
 
 <SubPages />
