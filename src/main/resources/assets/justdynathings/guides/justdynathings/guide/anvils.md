@@ -7,6 +7,6 @@ navigation:
 
 # More Anvils
 
-Unique anvils that allow to repair stuff without Experience
+Unique anvils that allows you to repair stuff without Experience
 
 <SubPages />
