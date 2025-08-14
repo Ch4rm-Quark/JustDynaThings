@@ -10,7 +10,7 @@ item_ids:
 
 # Celestigem Anvil
 
-An anvil that repair items using Forge Energy (FE)
+An anvil that repairs items using Forge Energy (FE)
 
 <BlockImage id="justdynathings:celestigem_anvil" scale="4.0"/>
 
