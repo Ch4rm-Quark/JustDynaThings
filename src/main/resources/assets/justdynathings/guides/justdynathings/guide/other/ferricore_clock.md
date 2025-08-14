@@ -14,13 +14,13 @@ item_ids:
 
 _aka Redstone Clock_
 
-A block that can be programmed to power redstone components with any side configurable with a specific gametick
+A block that can be programmed to power redstone components, with any side configurable with a specific gametick
 
 <BlockImage id="justdynathings:ferricore_clock" p:north="true" p:south="true" p:east="true" p:west="true" p:up="true" p:down="true" p:active="false" scale="4.0"/>
 
 <BlockImage id="justdynathings:ferricore_clock" p:north="true" p:south="true" p:east="true" p:west="true" p:up="true" p:down="true" p:active="true" scale="4.0"/>
 
-Ferricore Clock with direction NORTH and UP disabled to prevent to power not wanted stuff
+Ferricore Clock with the directions NORTH and UP disabled to prevent powering unwanted stuff
 
 <GameScene zoom="4" interactive={true}>
 
