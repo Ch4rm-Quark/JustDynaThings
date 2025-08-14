@@ -12,7 +12,7 @@ item_ids:
 
 # Energized Goo
 
-A new goo that require **Forge Energy** to stay alive
+A new goo that requires**Forge Energy** to stay alive.
 
 Tier level : **5**
 
