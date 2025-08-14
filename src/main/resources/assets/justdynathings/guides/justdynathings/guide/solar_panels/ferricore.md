@@ -10,14 +10,14 @@ item_ids:
 
 # Ferricore Solar Panel
 
-A solar panel that generate Forge Energy
+A solar panel that generates Forge Energy
 
 Default Max FE rate : **240**
 
 **Default Conditions:**
 
 - Dimensions = Overworld
-- See sky = true
+- Can See sky = true
 - Day time = true
 
 <BlockImage id="justdynathings:ferricore_solar_panel" scale="4.0"/>
