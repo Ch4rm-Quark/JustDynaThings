@@ -10,7 +10,7 @@ item_ids:
 
 # Echoing Budding Entro
 
-A Budding Entro (flawless) that consume Forge Energy and Fluid Time to grow clusters
+A version of Flawless Budding Entro that consumes Forge Energy and Fluid Time to grow clusters
 
 <BlockImage id="justdynathings:echoing_budding_entro" p:alive="false" scale="4.0"/>
 
