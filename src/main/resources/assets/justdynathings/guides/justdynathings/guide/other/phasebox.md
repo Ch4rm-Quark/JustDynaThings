@@ -14,7 +14,7 @@ _aka Ethereal Glass_
 
 A block that can be toggled to disable/enable the solid state
 
-Also it can be CTM when installed **Fusion** ~~ConnectedTexturesMod~~
+The textures will be connected when **Fusion** ~~ConnectedTexturesMod~~ is installed
 
 <BlockImage id="justdynathings:phase_box" scale="4.0"/>
 
