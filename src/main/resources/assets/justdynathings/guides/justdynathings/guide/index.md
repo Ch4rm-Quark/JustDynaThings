@@ -7,6 +7,6 @@ navigation:
 
 # Just Dyna Things
 
-A JustDireThings addon that add new stuff
+A JustDireThings addon that adds new stuff
 
 <SubPages />
