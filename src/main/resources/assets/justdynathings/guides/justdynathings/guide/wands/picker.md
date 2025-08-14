@@ -10,7 +10,7 @@ item_ids:
 
 # Picker Wand
 
-A wand that allow to pick-up a block and place where you want
+A wand that allows you to pick-up a block and place it where you want
 
 <ItemImage id="justdynathings:picker_wand" scale="4.0"/>
 
