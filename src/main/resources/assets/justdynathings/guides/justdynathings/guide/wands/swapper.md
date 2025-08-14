@@ -10,7 +10,7 @@ item_ids:
 
 # Swapper Wand
 
-A wand that allow to swap a block with another without remove it from world
+A wand that allows you to swap a block with another without removing it from world
 
 <ItemImage id="justdynathings:swapper_wand" scale="4.0"/>
 
