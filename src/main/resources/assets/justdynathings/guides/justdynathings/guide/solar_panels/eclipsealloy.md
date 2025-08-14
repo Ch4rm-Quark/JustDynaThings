@@ -10,14 +10,14 @@ item_ids:
 
 # Eclipse Alloy Solar Panel
 
-A solar panel that generate Forge Energy
+A solar panel that generates Forge Energy
 
 Default Max FE rate : **11520**
 
 **Default Conditions:**
 
-- More solar panels are near to other more will produce
-- High/Low Y-level will increase the multiplier , middle Y-level will decrease the multiplier
+- Connects to other panels to produce more energy
+- A High/Low Y-level will increase the multiplier , a middle Y-level will decrease the multiplier
 
 <BlockImage id="justdynathings:eclipse_alloy_solar_panel" scale="4.0"/>
 
