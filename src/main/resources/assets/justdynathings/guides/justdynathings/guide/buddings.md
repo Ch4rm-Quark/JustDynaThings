@@ -7,7 +7,7 @@ navigation:
 
 # A new way to farm budding resources
 
-Buddings that just require **Time Fluid** and **Energy** to grow clusters
+Budding Crystal Blocks that just require **Time Fluid** and **Energy** to grow clusters
 
 <GameScene zoom="2" interactive={true}>
   <Block id="justdynathings:echoing_budding_time" p:alive="true"/>
