@@ -10,7 +10,7 @@ item_ids:
 
 # Echoing Budding Phasorite
 
-A Budding Phasorite that consume Forge Energy and Fluid Time to grow clusters
+A version of Budding Phasorite that consumes Forge Energy and Fluid Time to grow clusters
 
 <BlockImage id="justdynathings:echoing_budding_phasorite" p:alive="false" scale="4.0"/>
 
