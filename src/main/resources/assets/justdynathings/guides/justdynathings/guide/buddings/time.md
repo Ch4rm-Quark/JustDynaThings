@@ -10,7 +10,7 @@ item_ids:
 
 # Echoing Budding Time
 
-A Budding Time that consume Forge Energy and Fluid Time to grow clusters
+A version of Budding Time that consumes Forge Energy and Fluid Time to grow clusters
 
 <BlockImage id="justdynathings:echoing_budding_time" p:alive="false" scale="4.0"/>
 
