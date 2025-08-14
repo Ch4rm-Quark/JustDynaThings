@@ -12,8 +12,8 @@ item_ids:
 
 # Creative Goo
 
-A simple goo that cannot die
-It can be toggled using any wrenches
+A simple goo that cannot die.
+It can be toggled using any wrench.
 
 Tier level : **MAX**
 
