@@ -10,9 +10,9 @@ item_ids:
 
 # BlackHole
 
-A more common called _Universal Trash can_
+More commonly called a _Universal Trash can_
 
-It can be turn off to allow to store abnormal amount of energy or fluids on a cheap space!
+It can be turned off to allow you to store abnormal amounts of energy or fluids in a compact space!
 
 <BlockImage id="justdynathings:blackhole" scale="4.0"/>
 
