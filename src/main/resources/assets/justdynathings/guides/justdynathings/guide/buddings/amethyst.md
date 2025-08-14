@@ -10,7 +10,7 @@ item_ids:
 
 # Echoing Budding Amethyst
 
-A Budding Amethyst that consume Forge Energy and Fluid Time to grow clusters
+A version of Budding Amethyst that consumes Forge Energy and Fluid Time to grow clusters
 
 <BlockImage id="justdynathings:echoing_budding_amethyst" p:alive="false" scale="4.0"/>
 
