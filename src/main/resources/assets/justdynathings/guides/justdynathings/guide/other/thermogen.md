@@ -10,7 +10,7 @@ item_ids:
 
 # The Power of Earth
 
-A new generator that generate Forge Energy based on a heat source blocks and a fluid coolant
+A new generator that generates Forge Energy based on heat source blocks and a fluid coolant
 
 <BlockImage id="justdynathings:thermo_generator" scale="4.0" p:facing="down" p:active="true"/>
 
@@ -22,4 +22,4 @@ FE gen = 125 x CoolantEfficiency x HeatEfficiency
 
 MB cost = 125 / CoolantEfficiency
 
-_probably it will be simplified on future_
+_probably will be simplified on future_
