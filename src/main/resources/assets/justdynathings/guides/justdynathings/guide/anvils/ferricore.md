@@ -10,7 +10,7 @@ item_ids:
 
 # Ferricore Anvil
 
-An anvil that repair tools with some [catalysts](https://github.com/DevDyna/JustDynaThings/blob/main/src/generated/resources/data/justdynathings/data_maps/item/anvils/ferricore_repair.json)
+An anvil that repairs tools usingh some metal [catalysts](https://github.com/DevDyna/JustDynaThings/blob/main/src/generated/resources/data/justdynathings/data_maps/item/anvils/ferricore_repair.json)
 
 <BlockImage id="justdynathings:ferricore_anvil" scale="4.0"/>
 
