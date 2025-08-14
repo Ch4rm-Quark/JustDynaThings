@@ -10,7 +10,7 @@ item_ids:
 
 # BlazeGold Solar Panel
 
-A solar panel that generate Forge Energy
+A solar panel that generates Forge Energy
 
 Default Max FE rate : **960**
 
@@ -22,4 +22,4 @@ Default Max FE rate : **960**
 
 <Recipe id="justdynathings:blazegold_solar_panel" />
 
-_Note: Everything can be modified via configs so dont trust at all!_
+_Note: Everything can be modified via configs so dont trust this at all!_
